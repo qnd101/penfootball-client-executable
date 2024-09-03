@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45b947ee.css",
+    "main.js": "/static/js/main.a4f4feaa.js",
+    "static/js/453.97be2311.chunk.js": "/static/js/453.97be2311.chunk.js",
+    "static/media/bgm_game.wav": "/static/media/bgm_game.f9ccf8a55349e7914add.wav",
+    "static/media/logo_altaltalt.png": "/static/media/logo_altaltalt.8215b074ee90f81f5c77.png",
+    "index.html": "/index.html",
+    "main.45b947ee.css.map": "/static/css/main.45b947ee.css.map",
+    "main.a4f4feaa.js.map": "/static/js/main.a4f4feaa.js.map",
+    "453.97be2311.chunk.js.map": "/static/js/453.97be2311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b947ee.css",
+    "static/js/main.a4f4feaa.js"
+  ]
+}
